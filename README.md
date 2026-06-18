@@ -1,6 +1,3 @@
-### Hi there 👋, I'm Toni Ogunyomade
-#### 🎓 Data Technician Bootcamp Learner | 📊 Aspiring Data Analyst   📍 Passionate about turning data into insights and building practical solutions
-
 # 👋 Hi, I'm Toni Ogunyomade
 
 🎓 Data Technician Bootcamp Learner | 📊 Aspiring Data Analyst  
