@@ -107,8 +107,8 @@ Across multiple weeks of intensive training, I have learned how to:
 
 ## 📫 Connect With Me
 
-- 💼 LinkedIn: *(add your link here)*  
-- 📊 Tableau Public: https://public.tableau.com/app/profile/toni.ogunyomade  
+- 💼 LinkedIn: *https://www.linkedin.com/in/toni-ogunyomade-86aa27181/*  
+- 📊 Tableau Public: *https://public.tableau.com/app/profile/toni.ogunyomade*
 
 ---
 
