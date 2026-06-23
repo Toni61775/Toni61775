@@ -36,7 +36,7 @@ Across multiple weeks of intensive training, I have learned how to:
   - Pie charts (population distribution)  
   - Scatter plots (correlation analysis)  
 - Applied filters and storytelling techniques  
-- Published dashboards to Tableau Public 【2-e32f2f】  
+- Published dashboards to Tableau Public 
 
 ---
 
@@ -47,7 +47,7 @@ Across multiple weeks of intensive training, I have learned how to:
 - Worked with relational databases (Northwind & World datasets)  
 - Used `JOIN` operations to combine multiple tables:
   - Customers, Orders, Products, Suppliers  
-- Extracted insights from retail and global datasets 【2-13bf51】  
+- Extracted insights from retail and global datasets 
 
 ---
 
