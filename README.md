@@ -24,7 +24,7 @@ Across multiple weeks of intensive training, I have learned how to:
 - Functions: `SUM`, `AVERAGE`, `SWITCH`  
 - Pivot Tables for summarising large datasets  
 - Data categorisation and reporting  
-- Analysing retail and sales datasets to uncover trends 【1-3fa807】  
+- Analysing retail and sales datasets to uncover trends
 
 ---
 
